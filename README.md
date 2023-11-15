@@ -72,14 +72,14 @@ Master-Master репликация. В этом варианте реплика�
 
 Выполнил конфигурацию master-slave репликации:
 
-![Apache2-clone.png](https://github.com/oleghamov/Pacemaker-10-03-14-05-23-hw-/blob/master/Apache2-clone.png)`
+![1.png](https://github.com/oleghamov/Replik-Mashtab-12-06-16-11-23-hw-/blob/master/1.png)`
 
-![Apache2-clone.png](https://github.com/oleghamov/Pacemaker-10-03-14-05-23-hw-/blob/master/Apache2-clone.png)`
+![2.png](https://github.com/oleghamov/Replik-Mashtab-12-06-16-11-23-hw-/blob/master/2.png)`
 
-![Apache2-clone.png](https://github.com/oleghamov/Pacemaker-10-03-14-05-23-hw-/blob/master/Apache2-clone.png)`
+![3.png](https://github.com/oleghamov/Replik-Mashtab-12-06-16-11-23-hw-/blob/master/3.png)`
 
-![Apache2-clone.png](https://github.com/oleghamov/Pacemaker-10-03-14-05-23-hw-/blob/master/Apache2-clone.png)`
+![4.png](https://github.com/oleghamov/Replik-Mashtab-12-06-16-11-23-hw-/blob/master/4.png)`
 
-![Apache2-clone.png](https://github.com/oleghamov/Pacemaker-10-03-14-05-23-hw-/blob/master/Apache2-clone.png)`
+![5.png](https://github.com/oleghamov/Replik-Mashtab-12-06-16-11-23-hw-/blob/master/5.png)`
 
 
